@@ -46,10 +46,38 @@
 
     <androidx.constraintlayout.widget.ConstraintLayout
         android:layout_width="354dp"
-        android:layout_height="771dp"
+        android:layout_height="617dp"
         android:background="@color/white"
         tools:layout_editor_absoluteX="27dp"
         tools:layout_editor_absoluteY="87dp">
+
+        <TextView
+            android:id="@+id/textView4"
+            android:layout_width="204dp"
+            android:layout_height="69dp"
+            android:fontFamily="sans-serif-black"
+            android:text="Clientes"
+            android:textColor="#090909"
+            android:textSize="48sp"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="26dp" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Dados Cadastrais"
+            android:textSize="16sp"
+            tools:layout_editor_absoluteX="42dp"
+            tools:layout_editor_absoluteY="105dp" />
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Nome Completo"
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="148dp" />
 
     </androidx.constraintlayout.widget.ConstraintLayout>
 

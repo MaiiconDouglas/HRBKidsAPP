@@ -59,8 +59,8 @@
             android:text="Clientes"
             android:textColor="#090909"
             android:textSize="48sp"
-            tools:layout_editor_absoluteX="42dp"
-            tools:layout_editor_absoluteY="26dp" />
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="16dp" />
 
         <TextView
             android:id="@+id/textView5"
@@ -68,8 +68,8 @@
             android:layout_height="wrap_content"
             android:text="Dados Cadastrais"
             android:textSize="16sp"
-            tools:layout_editor_absoluteX="42dp"
-            tools:layout_editor_absoluteY="105dp" />
+            tools:layout_editor_absoluteX="29dp"
+            tools:layout_editor_absoluteY="85dp" />
 
         <TextView
             android:id="@+id/textView6"

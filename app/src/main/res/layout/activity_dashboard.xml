@@ -9,15 +9,15 @@
 
     <View
         android:id="@+id/topView"
-        android:layout_width="381dp"
-        android:layout_height="790dp"
+        android:layout_width="336dp"
+        android:layout_height="703dp"
         android:background="@color/white"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.512"
+        app:layout_constraintHorizontal_bias="0.466"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:layout_constraintVertical_bias="0.704" />
+        app:layout_constraintTop_toBottomOf="@+id/topView2"
+        app:layout_constraintVertical_bias="0.297" />
 
     <View
         android:id="@+id/topView2"

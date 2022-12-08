@@ -1,0 +1,38 @@
+[
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_dashboard.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_dashboard.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_clientes.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_clientes.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_cliente.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_cliente.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_intro.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_intro.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_cadastroprodutos.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_cadastroprodutos.xml"
+    },
+    {
+        "merged": "com.example.hrbkidsapp-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.example.hrbkidsapp-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_produtos.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_produtos.xml"
+    },
+    {
+        "merged": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-mergeDebugResources-4:\\layout\\activity_cadastroclientes.xml",
+        "source": "C:\\Users\\WRATH-PC\\.gradle\\daemon\\7.4\\com.example.hrbkidsapp-main-7:\\layout\\activity_cadastroclientes.xml"
+    }
+]
